@@ -1,0 +1,6 @@
+Information:
+Country: Poland
+Capital city: Warsaw
+Region: Europe
+Population: 38496000
+Wikipedia: http://en.wikipedia.org/wiki/poland

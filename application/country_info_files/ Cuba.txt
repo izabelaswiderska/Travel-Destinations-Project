@@ -1,0 +1,7 @@
+Information:
+Country: Cuba
+Capital city: Havana
+Region: Americas
+Population: 11210064
+Wikipedia: http://en.wikipedia.org/wiki/cuba
+Area: 109884

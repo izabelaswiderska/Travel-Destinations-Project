@@ -1,0 +1,9 @@
+Information:
+Country: Italy
+Capital city: Rome
+Region: Europe
+Population: 60769102
+Wikipedia: http://en.wikipedia.org/wiki/italy
+Area: 301336
+Time zones: UTC+01:00
+Currencies: Italia

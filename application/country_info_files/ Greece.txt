@@ -1,0 +1,9 @@
+Information:
+Country: Greece
+Capital city: Athens
+Region: Europe
+Population: 10992589
+Wikipedia: http://en.wikipedia.org/wiki/greece
+Calling codes: 30
+Area: 131990
+Time zones: UTC+02:00
