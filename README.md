@@ -1,7 +1,7 @@
 # Travel Destinations Project
-Travel Destinations is a university project whose goal is to help application users with finding information about travel destinations.
+Travel Destinations is a university project. The goal of the project was to implement desktop application for helping users with finding information about travel destinations.
 
-The application allows the user to:
+The application allows users to:
 - enter the name of the country of interest
 - selecting the appropriate filters affecting the searched data
 - saving the obtained information to a file
